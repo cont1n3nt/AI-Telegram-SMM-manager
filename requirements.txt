@@ -1,0 +1,7 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+openai==1.51.0
+SQLAlchemy==2.0.35
+aiosqlite==0.20.0
+pydantic-settings==2.5.2
+python-dotenv==1.0.1
